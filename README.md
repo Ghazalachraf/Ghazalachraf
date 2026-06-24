@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3730a3&height=120&section=header&text=Achraf%20Ghazal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Ifrane%2C%20Maroc&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3730a3&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://github.com/Ghazalachraf.png" width="130" style="border-radius:50%;border:3px solid #a78bfa;" alt="Achraf Ghazal"/>
+<img src="https://github.com/Ghazalachraf.png" width="100" style="border-radius:50%;border:3px solid #a78bfa;" alt="Achraf Ghazal"/>
+
+<h1>Achraf Ghazal</h1>
+
+**Full-Stack Engineer · Ifrane | Rabat, Maroc**
 
 <br/>
 
@@ -25,74 +29,64 @@
 <a href="https://github.com/Ghazalachraf" target="_blank">
   <img src="https://img.icons8.com/fluency/64/github.png" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/achraf.gzl" target="_blank">
+  <img src="https://img.icons8.com/fluency/64/instagram-new.png" alt="Instagram"/>
+</a>
 
 </div>
 
 ---
 
-## Tech Stack
-
-**Langages**
+## Technologies
 
 <div align="center">
 
-<a href="#"><img src="https://img.icons8.com/color/64/python.png" alt="Python" title="Python"/></a>
-&nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/javascript.png" alt="JavaScript" title="JavaScript"/></a>
-&nbsp;
-<a href="#"><img src="https://img.icons8.com/officel/64/php-logo.png" alt="PHP" title="PHP"/></a>
-&nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java" title="Java"/></a>
-&nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/html-5--v1.png" alt="HTML5" title="HTML5"/></a>
-&nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/css3.png" alt="CSS3" title="CSS3"/></a>
+<img src="https://skillicons.dev/icons?i=python,javascript,php,java,html,css&perline=6" />
 
-</div>
+<br/>
 
-**Frameworks & Librairies**
+<img src="https://skillicons.dev/icons?i=laravel,react,nodejs,bootstrap,sass,nextjs,tailwind&perline=7" />
 
-<div align="center">
+<br/>
 
-<a href="#"><img src="https://img.icons8.com/fluency/64/laravel.png" alt="Laravel" title="Laravel"/></a>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase&perline=6" />
 &nbsp;
-<a href="#"><img src="https://img.icons8.com/officel/64/react.png" alt="React" title="React"/></a>
+<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" height="50" alt="MariaDB"/>
 &nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/nodejs.png" alt="Node.js" title="Node.js"/></a>
-&nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></a>
-&nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/sass.png" alt="Sass" title="Sass"/></a>
-&nbsp;
-<a href="#"><img src="https://img.icons8.com/fluency/64/nextjs.png" alt="Next.js" title="Next.js"/></a>
+<img src="https://img.icons8.com/color/64/oracle-logo.png" alt="Oracle"/>
 
-</div>
+<br/>
 
-**Bases de données**
-
-<div align="center">
-
-<a href="#"><img src="https://img.icons8.com/color/64/mysql-logo.png" alt="MySQL" title="MySQL"/></a>
+<img src="https://skillicons.dev/icons?i=figma,git,linux,docker&perline=6" />
 &nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/mongodb.png" alt="MongoDB" title="MongoDB"/></a>
+<img src="https://img.icons8.com/color/64/jira.png" alt="Jira"/>
+&nbsp;
+<img src="https://img.icons8.com/color/64/google-analytics.png" alt="Google Analytics"/>
 
-</div>
+<br/>
 
-**CRM / CMS / Outils**
+<img src="https://skillicons.dev/icons?i=wordpress&perline=6" />
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png" height="50" alt="Odoo"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Bedrock-45ADA8?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
-<div align="center">
+<br/>
 
-<a href="#"><img src="https://img.icons8.com/color/64/wordpress.png" alt="WordPress" title="WordPress"/></a>
+<img src="https://img.shields.io/badge/Agile-4f46e5?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 &nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/figma.png" alt="Figma" title="Figma"/></a>
+<img src="https://img.shields.io/badge/Scrum-7c3aed?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 &nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/git.png" alt="Git" title="Git"/></a>
+<img src="https://img.shields.io/badge/Kanban-a78bfa?style=for-the-badge&logo=jira&logoColor=white"/>
 &nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/jira.png" alt="Jira" title="Jira"/></a>
+<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 &nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/linux.png" alt="Linux" title="Linux"/></a>
+<img src="https://img.shields.io/badge/SWOT-6366f1?style=for-the-badge&logoColor=white"/>
 &nbsp;
-<a href="#"><img src="https://img.icons8.com/color/64/docker.png" alt="Docker" title="Docker"/></a>
+<img src="https://img.shields.io/badge/Benchmarking-3730a3?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -103,15 +97,5 @@
 ### ☄️ Meteors on my contributions
 
 ![Meteors](https://raw.githubusercontent.com/Ghazalachraf/Ghazalachraf/output/meteors.svg)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3730a3,100:0d0d0d&height=80&section=footer" width="100%"/>
-
-*Open to collaboration and new opportunities.*
 
 </div>
