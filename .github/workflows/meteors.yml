@@ -8,12 +8,14 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: Ghazalachraf
           outputs: |
-            dist/meteors.svg?palette=github-dark&color_snake=orange&color_dots=#edbf69,#edd57e,#f69d3a,#d65108,#9a2c00
+            dist/meteors.svg?palette=github-dark&color_snake=#a78bfa&color_dots=#1e1b4b,#3730a3,#4f46e5,#7c3aed,#a78bfa
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
