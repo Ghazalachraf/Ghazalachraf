@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:434343&height=120&section=header&text=Achraf%20Ghazal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Ifrane%2C%20Maroc&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3730a3&height=120&section=header&text=Achraf%20Ghazal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Ifrane%2C%20Maroc&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://github.com/Ghazalachraf.png" width="130" style="border-radius:50%;border:3px solid black;" alt="Achraf Ghazal"/>
+<img src="https://github.com/Ghazalachraf.png" width="130" style="border-radius:50%;border:3px solid #a78bfa;" alt="Achraf Ghazal"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Laravel+%7C+React+%7C+Next.js+%7C+Node.js;Automating+with+Python+%26+AI;Open+to+collaboration+%26+new+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=a78bfa&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Laravel+%7C+React+%7C+Next.js+%7C+Node.js;Automating+with+Python+%26+AI;Open+to+collaboration+%26+new+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -110,7 +110,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:0d0d0d&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3730a3,100:0d0d0d&height=80&section=footer" width="100%"/>
 
 *Open to collaboration and new opportunities.*
 
